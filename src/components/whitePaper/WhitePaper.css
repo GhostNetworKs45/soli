@@ -1,0 +1,25 @@
+.WhitePaperMain{
+background-color: #86ad74;
+text-align: center;
+}
+.document{
+    /* border: 2px solid red; */
+    /* display: flex;
+    justify-content: center; */
+    width: 100%;
+}
+.pdf{
+    width: 1100px !important;
+}
+@media(max-width:600px) {
+    .pdf{
+        width: 200px;
+    }
+    .document{
+        /* border: 2px solid red; */
+        display: flex;
+        justify-content: center;
+        width: 0%;
+        /* margin-left: 266px; */
+    }
+}
