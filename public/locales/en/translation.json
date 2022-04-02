@@ -1,0 +1,526 @@
+{
+    "SWAP": {
+        "1": "SWAP"
+    },
+    "THETAP": {
+        "1": "THE TAP"
+    },
+    "THESHORE": {
+        "1": "THE SHORE"
+    },
+    "Whitepaper": {
+        "1": "Whitepaper"
+    },
+    "SolisiumDAO": {
+        "1": "SOLS DAO"
+    },
+    "Tutorial": {
+        "1": "Tutorial"
+    },
+    "English": {
+        "1": "English"
+    },
+    "China": {
+        "1": "China"
+    },
+    "Korea": {
+        "1": "Korea"
+    },
+    "Spain": {
+        "1": "Spain"
+    },
+    "Rusia": {
+        "1": "Rusia"
+    },
+    "France": {
+        "1": "France"
+    },
+    "MetaMask": {
+        "1": "MetaMask"
+    },
+    "ConnecttoyourMetaMaskWallet": {
+        "1": "Connect to your MetaMask Wallet"
+    },
+    "WalletConnect": {
+        "1": "WalletConnect"
+    },
+    "ScanwithWalletConnecttoconnect": {
+        "1": "Scan with WalletConnect to connect"
+    },
+
+
+
+
+
+
+    "Approve": {
+        "1": "Approve"
+    },
+    "SolisiumNETWORK": {
+        "1": "SOLS NETWORK"
+    },
+    "SolisiumNetworkisthelatestprojectdevelopedby": {
+        "1": "Solisium Network is the latest project developed by"
+    },
+    "SolisiumTeam": {
+        "1": "Solisium Team"
+    },
+    "BB": {
+        "1": "BB"
+    },
+    "SelectRandomAddressess": {
+        "1": "Select Random Addresses"
+    },
+    "andteam.": {
+        "1": "and team."
+    },
+    "TheofficialtokenoftheSolisiumNetworkisSolisium(SOLS)onthePolygonChain(MATIC)thatcapturesvaluebybeingscarce,deflationary,censorshipresistant,andbybeingbuiltonarobust,trulydecentralizedblockchain.": {
+        "1": "The official token of the Solisium Network is SOLS (SOLS) on the Polygon Chain (MATIC) that captures value by being scarce, deflationary, censorship resistant, and by being built on a robust, truly decentralized blockchain."
+    },
+    "TherecommendedexchangefortradingSolisiumistheTheWellcontractwhichcanbefounddirectlyontheplatformswebsiteundertheTheWelltab,asitallowsustowaivetheinitial10%taxonbuysandprovidesthelowestpricesandhighestliquidity,resultinginlessslippageforlargertrades.": {
+        "1": "The recommended exchange for trading SOLS is the The Well contract which can be found directly on the platforms website under the The Well tab, as it allows us to waive the initial 10% tax on buys and provides the lowest prices and highest liquidity, resulting in less slippage for larger trades."
+    },
+    "TRADE": {
+        "1": "TRADE"
+    },
+    "STAKE": {
+        "1": "STAKE"
+    },
+    "LIQUIDITYFARM": {
+        "1": "LIQUIDITY FARM"
+    },
+    "STATS": {
+        "1": "STATS"
+    },
+    "TheSolisiumtokencapturestheentirevalueoftheSolisiumNetworkandmakesitavailabletotheentireMATICCommunity": {
+        "1": "The SOLS token captures the entire value of the Solisium Network and makes it available to the entire MATIC Community"
+    },
+    "Players": {
+        "1": "Investors"
+    },
+    "count": {
+        "1": "count"
+    },
+    "Maxdailyreturn": {
+        "1": "Max daily return"
+    },
+    "Totalsupply": {
+        "1": "Total supply"
+    },
+    "SOLS": {
+        "1": "SOLS"
+    },
+    "Transactions": {
+        "1": "Transactions"
+    },
+    "Activity": {
+        "1": "Activity"
+    },
+    "From": {
+        "1": "From"
+    },
+    "To": {
+        "1": "To"
+    },
+    "Amount": {
+        "1": "Amount"
+    },
+
+
+
+
+
+
+
+
+
+
+    "TheWell": {
+        "1": "The WELL"
+    },
+    "Price": {
+        "1": "Price"
+    },
+    "MATIC/SOLS": {
+        "1": "MATIC/SOLS"
+    },
+    "MATICBalance": {
+        "1": "MATIC Balance"
+    },
+    "USDT": {
+        "1": "USDT"
+    },
+    "MATIC": {
+        "1": "MATIC"
+    },
+    "SolisiumBalance": {
+        "1": "SOLS Balance"
+    }
+
+    ,
+    "BuySolisium": {
+        "1": "Buy SOLS"
+    }
+
+    ,
+    "Slippagetolerance": {
+        "1": "Slippage tolerance"
+    },
+    "Estimatereceived": {
+        "1": "Estimate received"
+    },
+    "Minimumreceived": {
+        "1": "Minimum received"
+    },
+    "Buy": {
+        "1": "Buy"
+    },
+    "SELLSolisium": {
+        "1": "SELL SOLS"
+    }
+
+    ,
+    "Max": {
+        "1": "Max"
+    },
+    "10%Taxisappliedonsells": {
+        "1": "10% Tax is applied on sells"
+    },
+    "Sell": {
+        "1": "Sell"
+    },
+    "ApproveSolisium": {
+        "1": "Approve SOLS"
+    },
+    "Chart": {
+        "1": "Chart"
+    },
+    "Stats": {
+        "1": "Stats"
+    },
+    "TheWellisthebestwaytoexchangevalueintheSolisiumNetwork!Herearethenumbers": {
+        "1": "The Well is the best way to exchange value in the Solisium Network! Here are the numbers"
+    }
+
+    ,
+    "Supply": {
+        "1": "Supply"
+    },
+    "ContractBalance": {
+        "1": "Contract Balance"
+    },
+    "SOLL": {
+        "1": "SOLL"
+    },
+    "LOCKED": {
+        "1": "LOCKED"
+    },
+    "Tranactions": {
+        "1": "Tranactions"
+    }
+
+    ,
+    "Txs": {
+        "1": "Txs"
+    }
+
+    ,
+
+
+
+
+
+
+    "Available": {
+        "1": "Available"
+    },
+    "Deposit": {
+        "1": "Deposit"
+    },
+    "Claimed": {
+        "1": "Claimed"
+    },
+    "Rewarded": {
+        "1": "Rewarded"
+    },
+    "Direct": {
+        "1": "Direct"
+    },
+    "Indirect": {
+        "1": "Indirect"
+    },
+    "MaxPayout": {
+        "1": "Max Payout"
+    },
+    "Team": {
+        "1": "Team"
+    },
+    "Total": {
+        "1": "Total"
+    },
+    "Solisium’sTheTapisalowrisk,highrewardcontractthatoperatessimilarlytoahighyieldcertificateofdepositbypayingout2%dailyreturnoninvestmentupto360%.": {
+        "1": "Solisium’s The Tap is a low-risk, high reward contract that operates similarly to a high yield certificate of deposit by paying out 2% daily return on investment up to 360%."
+    },
+    "Playerscancompoundandextendtheirearningsthroughdeposits,hydrating(compounding)rewardsaswellasthroughteambasedreferrals.": {
+        "1": "Investors can compound and extend their earnings through deposits, hydrating (compounding) rewards as well as through team based referrals."
+    },
+    "CopyReferralLink": {
+        "1": "Copy Referral Link"
+    },
+    "GetSolisium": {
+        "1": "Get SOLS"
+    },
+    "Aminimumof1Solisiumrequiredfordeposits": {
+        "1": "A minimum of 1 SOLS required for deposits"
+    },
+    "A10%taxischargedondeposits": {
+        "1": "A 10% tax is charged on deposits"
+    },
+    "HYDRATE": {
+        "1": "HYDRATE"
+    },
+    "recompound": {
+        "1": "recompound"
+    },
+    "Claim": {
+        "1": "Claim"
+    },
+    "JoinTheWave": {
+        "1": "Join The Wave"
+    },
+    "CurrentWaveStarter": {
+        "1": "Current Wave Starter"
+    },
+    "None": {
+        "1": "None"
+    },
+    "Manager": {
+        "1": "Manager"
+    },
+    "Beneficiary": {
+        "1": "Beneficiary"
+    },
+    "LastCheckin": {
+        "1": "Last Checkin"
+    },
+    "InactivityThreshold": {
+        "1": "Inactivity Threshold"
+    },
+    "WaveStarter": {
+        "1": "Wave Starter"
+    },
+    "Update": {
+        "1": "Update"
+    }
+
+    ,
+    "SupportMarketingandDevelopment": {
+        "1": "Support Marketing and Development"
+    },
+    "CheckoutWhoSolisiumed": {
+        "1": "Checkout Who Solisiumed"
+    },
+    "PlayerLookup": {
+        "1": "Investor Lookup"
+    },
+    "GO": {
+        "1": "GO"
+    },
+    "PlayerInfo": {
+        "1": "Investor Info"
+    },
+    "Directs": {
+        "1": "Directs"
+    },
+    "NetDeposits": {
+        "1": "Net Deposits"
+    },
+    "AirdropSent": {
+        "1": "Airdrop Sent"
+    },
+    "Received": {
+        "1": "Received"
+    }
+
+    ,
+    "AirdropLastSent": {
+        "1": "Airdrop Last Sent"
+    },
+    "Never": {
+        "1": "Never"
+    },
+    "TeamViewer": {
+        "1": "Team Viewer"
+    },
+    "TeamAirdrop": {
+        "1": "Team Airdrop"
+    },
+    "DirectAirdrop": {
+        "1": "Direct Airdrop"
+    },
+    "Player": {
+        "1": "Investor"
+    },
+    "Usemyaddress": {
+        "1": "Use my address"
+    },
+    "Viewall": {
+        "1": "View all"
+    },
+    "Show": {
+        "1": "Show"
+    },
+    "Campaign": {
+        "1": "Campaign"
+    },
+    "Dividebudgetbetweenmatchingplayers": {
+        "1": "Divide budget between matching investors"
+    }
+
+    ,
+    "Rewardsbudgettoonematchingplayer": {
+        "1": "Rewards budget to one matching investor"
+    },
+    "Dividedbudgetacross5matchingplayers": {
+        "1": "Divided budget across 5 matching investors"
+    },
+    "Dividedbudgetacross20matchingplayers": {
+        "1": "Divided budget across 20 matching investors"
+    },
+    "Dividedbudgetacross50matchingplayers": {
+        "1": "Divided budget across 50 matching investors"
+    },
+    "Dividedbudgetacross100matchingplayers": {
+        "1": "Divided budget across 100 matching investors"
+    },
+    "Eligiblematchingplayersselectedatrandom": {
+        "1": "Eligible matching investors selected at random"
+    },
+    "Minimumdirects": {
+        "1": "Minimum directs"
+    },
+    "Teamdepth": {
+        "1": "Team depth"
+    },
+    "Minimumnetdeposits": {
+        "1": "Minimum net deposits"
+    },
+    "Budget": {
+        "1": "Budget"
+    },
+    "RUN": {
+        "1": "RUN"
+    },
+    "Numberofrecipients": {
+        "1": "Number of recipients"
+    },
+    "EstimatedSolisiumperperson": {
+        "1": "Estimated SOLS per person"
+    },
+    "SEND": {
+        "1": "SEND"
+    },
+    "CampaignConsole": {
+        "1": "Campaign Console"
+    },
+    "CampaignViewer": {
+        "1": "Campaign Viewer"
+    },
+    "Address": {
+        "1": "Address"
+    },
+    "Deposits": {
+        "1": "Deposits"
+    },
+    "Status": {
+        "1": "Status"
+    },
+    "About": {
+        "1": "About"
+    },
+    "PlayerscanparticipatebypurchasingSolisiumfromtheplatform'sTheWellpage,joininganotheruser’sSolisiumteam(1Solisiumminimumrequirement)DepositingSolisiumtotheTheTapcontractearnsaconsistent2%dailyreturnoftheirSolisium(365%maximumpayout)passively.Playerscanalsocompoundtheirearningsthroughregulardeposits,rollingrewardsaswellasteambasedreferrals.Unlikemanyotherplatformspromisingaconsistentdaily%return,TheTap'scontractcannotdrainandwillALWAYSbeabletoprovidetheSolisiumthathasbeenrewarded.Solisiumrewardscomefroma10%taxonallSolisiumtransactionsexcludingbuysfromtheplatform'sTheWellpage.": {
+        "1": "Investors can participate by purchasing SOLS from the platform's The WELL page, joining another user’s SOLS team (1 SOLS minimum requirement) Depositing SOLS to the The Tap contract earns a consistent 2% daily return of their SOLS (360% maximum payout) passively. Investors can also compound their earnings through regular deposits, rolling rewards as well as team based referrals. Unlike many other platforms promising a consistent daily % return, The Tap's contract cannot drain and will ALWAYS be able to provide the SOLS that has been rewarded. SOLS rewards come from a 10% tax on all SOLS transactions excluding buys from the platform's The WELL page."
+    },
+    "IfthereiseverasituationwherethetaxpoolisnotenoughtopaySolisiumrewardsnewSolisiumwillbemintedtoensurerewardsarepaidout.GiventhegametheorybehindtheSolisiumnetwork,theprobabilitythatthesystemwillneedtomintnewSolisiumtopayrewardsisextremelylow.SinceSolisiumdepositedintoTheTaparesenttoaburnaddressandSolisiumisconstantlybeinglockedintheliquiditypoolthroughtheTheShorecontract,SolisiumistheonlydeflationarydailyROIplatform.ThebeststrategyforSolisiumistofocusonrealworldadoptionbybuildingoutyourteamthroughdirectreferrals,asyouwillreceivebonusrewardsfromreferralsontheirdepositsanddownlinebonusesfromplayerstheyreferbasedontheamountofSolisiumDAOheldinyourwallet": {
+        "1": "If there is ever a situation where the tax pool is not enough to pay SOLS rewards new SOLS will be minted to ensure rewards are paid out. Given the game theory behind the SOLS network, the probability that the system will need to mint new SOLS to pay rewards is extremely low. Since SOLS deposited into The Tap are sent to a burn address and SOLS is constantly being locked in the liquidity pool through the The Shore contract, SOLS is the only deflationary daily ROI platform. The best strategy for SOLS is to focus on real world adoption by building out your team through direct referrals, as you will receive bonus rewards from referrals on their deposits and downline bonuses from investors they refer based on the amount of SOLS DAO held in your wallet"
+    },
+
+
+
+
+    "Rewards": {
+        "1": "Rewards"
+    },
+    "TotalSLSL": {
+        "1": "Total SOLL"
+    },
+    "DROP": {
+        "1": "DROP"
+    },
+    "Stake": {
+        "1": "Stake"
+    }
+
+    ,
+    "Compounds": {
+        "1": "Compounds"
+    },
+    "Count": {
+        "1": "Count"
+    },
+    "TotalWithdrawn": {
+        "1": "Total Withdrawn"
+    },
+    "CompoundedTotal": {
+        "1": "Compounded Total"
+    }
+
+    ,
+    "TheShoreisTheSolisiumNetwork’ssolutionforplayersthatwantbenefitfromnon-inflationaryyieldfarmingthroughaddingliquiditytoSolisium": {
+        "1": "The Shore is The Solisium Network’s solution for investors that want benefit from non-inflationary yield farming through adding liquidity to SOLS"
+    },
+    "COMPOUND": {
+        "1": "COMPOUND"
+    },
+    "CLAIM": {
+        "1": "CLAIM"
+    },
+    "BuyandDeposit": {
+        "1": "Buy and Deposit"
+    }
+
+    ,
+    "Estimated": {
+        "1": "Estimated"
+    },
+    "BUY": {
+        "1": "BUY"
+    }
+
+    ,
+    "Withdraw": {
+        "1": "Withdraw"
+    },
+    "DropBalance": {
+        "1": "SOLL Balance"
+    },
+    "TheShoreisTheSolisiumNetwork’ssolutionforplayersthatwantbenefitfromnoninflationaryyieldfarmingthroughaddingliquiditytoSolisium.Herearethenumbers": {
+        "1": "The Shore is The Solisium Network’s solution for investors that want benefit from non-inflationary yield farming through adding liquidity to SOLS. Here are the numbers"
+    },
+    "UserCount": {
+        "1": "User Count"
+    },
+    "TotalValueLocked": {
+        "1": "Total Value Locked"
+    },
+    "DividendPool": {
+        "1": "Dividend Pool"
+    },
+    "JoinusonTelegram": {
+        "1": "Join us on Telegram"
+    },
+    "JoinusTwiter": {
+        "1": "Join us Twiter"
+    }
+
+}
