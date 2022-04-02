@@ -1,0 +1,9 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>NEW_CoinUseIcons_TradeAgainstCrypto</title>
+  <circle cx="17.22" cy="47.41" r="16.14" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10"/>
+  <circle cx="40.05" cy="24.59" r="16.14" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10"/>
+  <g>
+    <line x1="17.01" y1="47.2" x2="41.9" y2="22.3" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10"/>
+    <polyline points="41.9 28.26 41.9 22.3 35.94 22.3" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10"/>
+  </g>
+</svg>

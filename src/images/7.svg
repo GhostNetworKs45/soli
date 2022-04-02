@@ -1,0 +1,9 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>NEW_CoinUseIcons_SmartContracts</title>
+  <path d="M27.71,7.81H3.36a3,3,0,0,0-3,3V60.59a3,3,0,0,0,3,3h36a3,3,0,0,0,3-3V22.43a3,3,0,0,0-.87-2.1L29.81,8.68A3,3,0,0,0,27.71,7.81Z" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10"/>
+  <path d="M28.94,8.07v12.2a1.56,1.56,0,0,0,1.56,1.56H42.26" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10"/>
+  <g>
+    <path d="M29.17,37.61l4.15,4.15a5,5,0,0,1,0,7.09h0a5,5,0,0,1-7.1,0L19.36,42a5,5,0,0,1,0-7.09h0" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path d="M13.54,36.18,9.4,32a5,5,0,0,1,0-7.09h0a5,5,0,0,1,7.1,0l6.86,6.86a5,5,0,0,1,0,7.09h0" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10"/>
+  </g>
+</svg>

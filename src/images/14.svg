@@ -1,0 +1,10 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32">
+  <title>No Fees</title>
+  <circle cx="13.92" cy="15.82" r="13.57" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+  <g>
+    <path d="M13.92,15.68c-2.62,0-4.74-1.8-4.74-4s2.12-4,4.74-4,4.73,1.81,4.73,4" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+    <path d="M13.92,15.68c2.61,0,4.73,1.8,4.73,4s-2.12,4-4.73,4-4.74-1.81-4.74-4" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+    <path d="M13.92,4.16V28.32" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+  </g>
+  <line x1="25.95" y1="9.56" x2="1.88" y2="22.08" fill="none" stroke="#291f6c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+</svg>
